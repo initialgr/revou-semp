@@ -1,0 +1,2 @@
+# revou-semp
+belajar git
